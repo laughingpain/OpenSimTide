@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Project frameworkVersion="net8_0" name="OpenSimTide" path="addon-modules/OpenSimTide" type="Library">
+<Project frameworkVersion="net8_0" name="OpenSimTideNonSharedModule" path="addon-modules/OpenSimTideNonSharedModule" type="Library">
      <Configuration name="Debug">
        <Options>
          <OutputPath>../../bin/</OutputPath>
