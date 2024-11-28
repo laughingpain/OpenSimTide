@@ -1,4 +1,5 @@
-opensimsulator 0.9.3.1: working
+Status
+on os0.9.3.1: working
 
 OpenSimTide v0.2
 
