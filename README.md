@@ -1,3 +1,5 @@
+opensimsulator 0.9.3.1: working
+
 OpenSimTide v0.2
 
 This is a INonSharedRegion module that controls the tide on your region. It
