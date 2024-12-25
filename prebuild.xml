@@ -1,18 +1,4 @@
-<?xml version="1.0" ?>
 <Project frameworkVersion="net8_0" name="OpenSimTideNonSharedModule" path="addon-modules/OpenSimTideNonSharedModule" type="Library">
-     <Configuration name="Debug">
-       <Options>
-         <OutputPath>../../bin/</OutputPath>
-       </Options>
-     </Configuration>
-     <Configuration name="Release">
-       <Options>
-         <OutputPath>../../bin/</OutputPath>
-         <OptimizeCode>true</OptimizeCode>
-         <DebugInformation>false</DebugInformation>
-       </Options>
-     </Configuration>
-
      <ReferencePath>../../bin/</ReferencePath>
      <Reference name="System"/>
      <Reference name="System.Net"/>
@@ -29,4 +15,4 @@
        <Match pattern="*.cs" recurse="true">
        </Match>
      </Files>
-   </Project>
+</Project>
